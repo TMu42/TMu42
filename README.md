@@ -4,7 +4,7 @@ This is my personal GitHub account which I use mostly for private projects howev
 
 I’m currently working on:
  * A repository of solutions to [Advent of Code](https://adventofcode.com/). I am hoping to make this public soon so that you may follow my work.
- * A repository [`matrix-life`](https://github.com/TMu42/matrix-life) implementing cellular automata with linear algebra.
+ * A repository [`matrix-life`](https://github.com/TMu42/matrix-life) implementing [Cellular Automata](https://en.wikipedia.org/wiki/Cellular_automaton) with [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra) using a [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) design pattern.
  * A novelty minigolf style game with a few surprises. I am hoping to make this public soon so that you may follow my work.
 <!--
 **TMu42/TMu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
