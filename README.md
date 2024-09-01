@@ -7,7 +7,7 @@ I’m currently working on:
  * A repository [`matrix-life`](https://github.com/TMu42/matrix-life) implementing [Cellular Automata](https://en.wikipedia.org/wiki/Cellular_automaton) with [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra) using a [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) design pattern.
  * A GitHub Pages webpage to showcase my work. A [live version](https://tmu42.github.io/) is available but there is not a lot of content yet and many features are still under construction. Please bear with me as I bring more content and features online over the coming months.
  * A novelty minigolf style game with a few surprises. I am hoping to make this public soon so that you may follow my work.
- * A repository of model implementations of sorting algorithms in c. I am hoping to make this public soon so that you may follow my work.
+ * A repository of model implementations of sorting algorithms in C. I am hoping to make this public soon so that you may follow my work.
 <!--
 **TMu42/TMu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
