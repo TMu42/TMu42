@@ -8,7 +8,7 @@ I’m currently working on:
  * A GitHub Pages webpage to showcase my work. A [live version](https://tmu42.github.io/) is available but there is not a lot of content yet and many features are still under construction. Please bear with me as I bring more content and features online over the coming months.
  * A novelty minigolf style game with a few surprises. I am hoping to make this public soon so that you may follow my work.
  * A repository of model implementations of sorting algorithms in C. I am hoping to make this public soon so that you may follow my work.
- * A repository of tools for prceedural construction of web based code files. I am hoping to make this public soon so that you may follow my work.
+ * A repository of tools for procedural construction of web based code files. I am hoping to make this public soon so that you may follow my work.
 <!--
 **TMu42/TMu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
