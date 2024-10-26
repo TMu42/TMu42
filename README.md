@@ -8,7 +8,7 @@ I’m currently working on:
  * A repository [`web-build`](https://github.com/TMu42/web-build) of tools for automating the construction of web based code files from reusable elements.
  * A GitHub Pages webpage to showcase my work. A [live version](https://tmu42.github.io/) is available but there is not a lot of content yet and many features are still under construction. Please bear with me as I bring more content and features online over the coming months.
  * A novelty minigolf style game with a few surprises. I am hoping to make this public soon so that you may follow my work.
- * A repository of model implementations of sorting algorithms in C. I am hoping to make this public soon so that you may follow my work.<br>**UPDATE**: A repository demonstrating six sorting algorithms — along with a range of test utilities — will shortly be published with further updates in development.
+ * A repository of model implementations of sorting algorithms in C. **UPDATE**: I will be making this repository public very soon, demonstrating six sorting algorithms — along with a range of test utilities — with further updates in development.
 <!--
 **TMu42/TMu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
